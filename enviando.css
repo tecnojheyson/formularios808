@@ -1,0 +1,15 @@
+body {
+   display: grid;
+   justify-content: center;
+   background: linear-gradient(90deg, rgba(2,0,36,0.5) 0%, rgba(197, 43, 236, 0.5) 35%, rgba(244, 174, 248, 0.5) 100%);
+
+}
+
+textarea {
+    width: 400px;
+}
+
+form {
+    text-align: center;
+}
+
